@@ -2,3 +2,4 @@ Today is Friday
 Month is October
 Year is 2023
 Day is 13
+We are using HP Laptops
